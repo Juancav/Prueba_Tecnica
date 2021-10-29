@@ -34,6 +34,6 @@ Datatables 1.11.3
 SweetAlert2 10
 
 
-*******************
+
 CREADO POR JUAN CARLOS AREVALO VILLALTA
-*******************
+
